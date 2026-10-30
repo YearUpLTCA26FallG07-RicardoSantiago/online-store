@@ -5,6 +5,9 @@ public class Product {
     private String name;
     private double price;
 
+    public Product(String asdf, String asdfAsdf, double v, String misc) {
+    }
+
     public String getSku() {
         return sku;
     }
